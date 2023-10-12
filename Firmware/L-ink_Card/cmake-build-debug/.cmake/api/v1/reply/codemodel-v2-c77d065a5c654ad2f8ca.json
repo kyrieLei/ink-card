@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "L-ink_Card",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L-ink_Card.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-ink_Card.elf-Debug-e17bd6b16c53a98957f4.json",
+					"name" : "L-ink_Card.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kyrie/Desktop/\u5de5\u521b5/\u56fa\u4ef6/L-ink_Card/cmake-build-debug",
+		"source" : "/Users/kyrie/Desktop/\u5de5\u521b5/\u56fa\u4ef6/L-ink_Card"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

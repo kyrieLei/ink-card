@@ -1,0 +1,3 @@
+/Users/kyrie/Desktop/工创5/固件/L-ink_Card/cmake-build-debug/CMakeFiles/L-ink_Card.elf.dir
+/Users/kyrie/Desktop/工创5/固件/L-ink_Card/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kyrie/Desktop/工创5/固件/L-ink_Card/cmake-build-debug/CMakeFiles/rebuild_cache.dir
