@@ -26,6 +26,7 @@ fun Context.findActivity(): Activity? {
     }
 }
 
+
 class NfcUtils(private val context: Context) {
     private val mNfcAdapter: NfcAdapter? = NfcAdapter.getDefaultAdapter(context)
 
